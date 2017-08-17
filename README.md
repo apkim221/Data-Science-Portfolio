@@ -1,5 +1,3 @@
-# Data Science Portfolio
-
 This portfolio contains my data science projects which cover gathering, analyzing and visualizing data. You can view the code and datasets through the Github links while the Nbviewer links will allow you to see all the visualizations including interactive plots. 
 
 ## Customer Segmentation
