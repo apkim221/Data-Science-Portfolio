@@ -27,4 +27,4 @@ This portfolio contains my data science projects which cover gathering, analyzin
 
 * [Tableau Public](https://public.tableau.com/profile/andrew.kim7913#!/vizhome/USAirportDelaysbyRoute/Sheet1)
    
-   By combining data on US airline routes and airports, I create an interactive map that allows the user to see delays along various        routes. You can filter by day of the week, airline and origin airport. 
+   By combining data on US airline routes and airports, I create an interactive map that allows the user to see delays along various        routes. You can filter by day of the week, airline and origin airport. This allows for visual analysis of major airports and airline to see what routes are most heavily affected by delays.
