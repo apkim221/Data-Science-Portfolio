@@ -23,3 +23,8 @@ This portfolio contains my data science projects which cover gathering, analyzin
 
    In this project, I collect data from multiple sources on NYC high schools and perform cursory analysis on SAT scores and potential        factors influencing them. Some of the features considered include the location and demographic of each high school. 
 
+## Data Visualizations/Dashboards
+
+* [Tableau Public](https://public.tableau.com/profile/andrew.kim7913#!/vizhome/USAirportDelaysbyRoute/Sheet1)
+   
+   By combining data on US airline routes and airports, I create an interactive map that allows the user to see delays along various        routes. You can filter by day of the week, airline and origin airport. 
